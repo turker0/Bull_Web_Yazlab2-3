@@ -35,7 +35,7 @@ let map = null;
 
   // Your web app's Firebase configuration
   var firebaseConfig = {
-    apiKey: "AIzaSyBk6kv0DRH7onRsRZTsWsS-UcTkWg2QKEQ",
+    apiKey: "YOUR_KEY",
     authDomain: "bull-41.firebaseapp.com",
     databaseURL: "https://bull-41.firebaseio.com",
     projectId: "bull-41",
